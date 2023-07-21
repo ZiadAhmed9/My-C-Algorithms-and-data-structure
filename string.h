@@ -1,0 +1,10 @@
+int string_len(char* str);
+void string_reverse(char str[]);
+void  string_print(char str[]);
+void string_cap2small(char str[]);
+void string_scan(char*str);
+void intToString(int n, char*str);
+int stringToInt(char* str,int* pnum);
+void string_search(char* str,char* word);
+int str_com(char*str1,char* str2);
+int* array_merge(int*arr1,int size1,int* arr2,int size2);
